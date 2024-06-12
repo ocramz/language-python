@@ -42,7 +42,8 @@ Library
       array >= 0.4 && < 0.6,
       transformers >= 0.3 && < 0.7,
       mtl,
-      utf8-string >= 1 && < 2
+      utf8-string >= 1 && < 2,
+      validation-micro
    build-tools: happy, alex
    exposed-modules:
       Language.Python.Common
