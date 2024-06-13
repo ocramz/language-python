@@ -1,10 +1,10 @@
-resolver: lts-10.2
+resolver: lts-22.22
 
 packages:
 - .
 
-extra-deps: []
-
+extra-deps:
+- validation-micro-1.0.0.0@sha256:fc195f4ddca51bd5f0521e2fd9c3ad448a5066ec24c49a3401f7c477ca6ea807,2541
 # Override default flag values for local packages and extra-deps
 # flags: {}
 

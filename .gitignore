@@ -7,3 +7,4 @@ cabal.sandbox.config
 language-python.iml
 .stack-work
 dist-newstyle
+stack.yaml.lock
